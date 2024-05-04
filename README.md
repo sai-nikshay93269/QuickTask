@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quick_task_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# QuickTask
+Task management application made using back4app and flutter
+>>>>>>> 88d662f624fa55bebc0c00dcf54f5de276566af2
